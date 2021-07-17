@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url("../fonts/Roboto/Roboto-Bold.ttf");
+}
+@font-face {
+    font-family: 'PlayVarw';
+    src: url("../fonts/Playfair_Display/PlayfairDisplay-Italic-VariableFont_wght.ttf");
+}
+h1, h2 {
+    font-family: 'PlayVarw';
+    font-weight: 500;
+}
+
+p, li {
+    font-size: medium;
+    font-family: 'Roboto';
+    font-weight: 300;
+}
